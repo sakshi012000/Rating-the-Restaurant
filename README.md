@@ -5,9 +5,9 @@ This is a web app made out of zomato dataset https://www.kaggle.com/bablukd/zoma
 The web app work as follows:
 This is the UI in which user can enter the required data for the model:
 
-https://github.com/sakshi012000/Restaurant-Rating-Web-App/blob/main/1.jpeg
+![](https://github.com/sakshi012000/Restaurant-Rating-Web-App/blob/main/1.jpeg)
 
 Then the model gives the rating according to the input given by user:
 
-https://github.com/sakshi012000/Restaurant-Rating-Web-App/blob/main/2.jpeg
+![](https://github.com/sakshi012000/Restaurant-Rating-Web-App/blob/main/2.jpeg)
 
